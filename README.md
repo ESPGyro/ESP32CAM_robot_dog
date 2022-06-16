@@ -5,7 +5,7 @@ Make a robot dog
 This is a fork esp32 code from  https://github.com/maestrakos/warp
 
 
-[![IMAGE ALT TEXT HERE](robot_dog_v1.jpg)](https://github.com/maestrakos/warp)
+[![IMAGE ALT TEXT HERE](robot_dog_v1.jpg)](https://www.youtube.com/watch?v=a2ccwLBtu94)
 
 
 - Add the controller app by V7RC 
